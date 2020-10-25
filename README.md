@@ -13,6 +13,6 @@ Usage
 
 You will need to clone the source code of ColorLip GitHub repository.
 
-git clone https://bino-b8dbf.firebaseapp.com/
+git clone https://github.com/Diaa-ibrahiem/Bino-portfolioWebsite.git
 
 After the repository is cloned, go inside of the repository directory and install dependencies.
